@@ -4,7 +4,7 @@
     "nodemon": "^2.0.15"
   },
   "scripts": {
-    "start": "nodemon --exec babel-node src/index.js",
+    "start": "nodemon ./index.js",
     "test": "jest"
   }
 }
