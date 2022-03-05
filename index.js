@@ -1,5 +1,2 @@
-const Traveler = require("./Traveler");
-
-// I will make the calls here
-console.log('index');
-console.log('index2');
+// all tests in test.js
+// logic in Traveler.js
